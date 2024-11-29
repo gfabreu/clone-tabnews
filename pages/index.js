@@ -1,4 +1,4 @@
 function Home() {
-    return <h1>Camila, eu te amo, se você me ama também, dê um sorrisinho!</h1>
+    return <h1>Camila, eu amo você. Se você me ama, dê um sorrisinho! ❤️</h1>
 }
 export default Home;
